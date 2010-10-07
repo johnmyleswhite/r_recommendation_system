@@ -1,0 +1,8 @@
+data/consent.csv
+data/identifiable_installations.csv
+data/test_data.csv
+anonymize_data.R
+censor_released_data.R
+split_training_test_data.R
+prepare_contest.sh
+TODO
