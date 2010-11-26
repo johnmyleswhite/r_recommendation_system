@@ -7,3 +7,4 @@ split_training_test_data.R
 prepare_contest.sh
 TODO
 clean_installations.R
+.DS_Store
